@@ -1,0 +1,69 @@
+Reading rainfall-data.csv...
+Processing complete!
+Read 294886 data points.
+
+Data recorded for 30 unique locations:
+- Auckland
+- Blenheim
+- Christchurch
+- Dannevirke
+- Dunedin
+- Gisborne
+- Gore
+- Hamilton
+- Hokitika
+- Invercargill
+- Kerikeri
+- LakeTekapo
+- Masterton
+- MilfordSound
+- Napier
+- Nelson
+- NewPlymouth
+- Queenstown
+- Reefton
+- Rotorua
+- TaraHills
+- Taumarunui
+- Taupo
+- Tauranga
+- Timaru
+- Waiouru
+- Wellington
+- Whanganui
+- Whangaparaoa
+- Whangarei
+
+Average daily rainfall NZ-wide: 3.51 millimetres
+Average daily rainfall for Auckland: 3.03 millimetres
+
+Ten highest daily readings in NZ:
+- 537.50 mm, recorded @ MilfordSound on 1994-01-20
+- 420.00 mm, recorded @ MilfordSound on 2015-04-25
+- 350.00 mm, recorded @ MilfordSound on 1994-01-08
+- 327.10 mm, recorded @ MilfordSound on 1991-01-06
+- 326.00 mm, recorded @ MilfordSound on 1999-11-16
+- 315.00 mm, recorded @ MilfordSound on 2002-09-18
+- 313.50 mm, recorded @ MilfordSound on 2010-04-25
+- 306.00 mm, recorded @ MilfordSound on 2005-03-05
+- 300.00 mm, recorded @ MilfordSound on 1995-03-18
+- 272.50 mm, recorded @ MilfordSound on 1993-10-04
+
+Ten highest daily readings in Auckland:
+- 84.80 mm, recorded @ Auckland on 2004-05-01
+- 81.20 mm, recorded @ Auckland on 2004-02-28
+- 81.00 mm, recorded @ Auckland on 1997-05-23
+- 72.60 mm, recorded @ Auckland on 2011-01-28
+- 72.40 mm, recorded @ Auckland on 2006-10-01
+- 71.60 mm, recorded @ Auckland on 1998-02-21
+- 68.20 mm, recorded @ Auckland on 2011-01-22
+- 67.80 mm, recorded @ Auckland on 1998-08-10
+- 66.40 mm, recorded @ Auckland on 1996-05-21
+- 66.20 mm, recorded @ Auckland on 2011-04-25
+
+Saved rainfall averages to: averages.txt
+
+Average Spring rainfall: 3.47 mm
+Average Summer rainfall: 3.23 mm
+Average Autumn rainfall: 3.48 mm
+Average Winter rainfall: 3.87 mm
